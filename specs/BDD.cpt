@@ -1,0 +1,31 @@
+# Bilet Al sayfasına git
+* Bilet al butonuna tikla
+
+# Tek yön uçuşunu seç
+* Tek yön butonuna tıkla
+
+# Yönü <key1> to <key2> yap
+* Nereye butonuna tıkla
+* Aramaya <key1> yaz
+* Bulunan ilk sonuca tıkla
+* Nereye butonuna tıkla
+* Aramaya <key2> yaz
+* Bulunan ilk sonuca tıkla
+
+# Tarihi <key> gün sonraya ayarla
+* Gidiş tarih butonuna tıkla
+* Tarihi <key> gün sonrası yap
+* Tamam butonuna tıkla
+
+# Yetişkin sayısını <key> yap
+* Yetişkin + butonuna "1" kez tıkla
+
+# Uçuşu Ara
+* Uçuş ara butonuna tıkla
+
+# En ucuz bileti seç
+* Sırala ve filtrele butonuna tıkla
+* Fiyat butonuna tıkla
+* Sıralama için Tamam butonuna tıkla
+* Sonuçlanan ilk uçuşu seç
+* Devam butonuna tıkla
